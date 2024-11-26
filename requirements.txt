@@ -1,0 +1,24 @@
+# Existing data science packages
+numpy
+pandas
+xgboost
+joblib
+streamlit
+scikit-learn
+matplotlib
+seaborn
+scipy
+statsmodels
+
+# Required packages for TorchServe deployer
+flask
+flask-socketio
+docker
+gitpython
+python-dotenv
+gunicorn
+eventlet
+torch
+torchserve
+torch-model-archiver
+torch-workflow-archiver
